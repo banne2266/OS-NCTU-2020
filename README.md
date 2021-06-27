@@ -6,7 +6,7 @@
 |-|
 
 * HW 1 simple shell  
-* HW 2 matrix multiplication (multi processor)  
+* HW 2 matrix multiplication (multi processes with share memory)  
 * HW 3 merge sort (multi thread)  
 * HW 4 merge sort (thread pool)  
 * HW 5 Cache simulation (LRU & LFU)
